@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 ## hello_app
+*this is simple hello_app with goodbye page deployed on heroku on [*hello-app-url*](https://ancient-springs-45942.herokuapp.com/)
